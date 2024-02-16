@@ -26,6 +26,7 @@
         app:layout_constraintVertical_bias="0.74">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/editTextCode"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Введи номер уточки" />
